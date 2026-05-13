@@ -1,0 +1,10 @@
+[
+    {
+        "UpdateStageName": "Isle Injector — Manual Install Notice",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "None",
+        "UpdateSourceData": "",
+        "UpdateSourceTarget": "{{$FullBaseDir}}",
+        "OverwriteExistingFiles": false
+    }
+]

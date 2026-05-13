@@ -1,0 +1,18 @@
+[
+    {
+        "ConfigFile": "config.ini",
+        "ConfigType": "kvp",
+        "AutoMap": true,
+        "Importable": true,
+        "ConfigFormat": "{0}={1}",
+        "ConfigFormatRegex": "^(?:;)?(?<key>.+?)\\s*=\\s*(?<value>[^\"]*?)$"
+    },
+    {
+        "ConfigFile": "offsets.ini",
+        "ConfigType": "kvp",
+        "AutoMap": false,
+        "Importable": false,
+        "ConfigFormat": "{0}={1}",
+        "ConfigFormatRegex": "^(?:;)?(?<key>.+?)\\s*=\\s*(?<value>[^\"]*?)$"
+    }
+]
